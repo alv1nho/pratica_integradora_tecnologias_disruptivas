@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Estilo para linhas pares */
+.table-row-even {
+  background-color: #dbdbdb; /* Cor de fundo para linhas pares */
+}
+
+/* Estilo para linhas ímpares */
+.table-row-odd {
+  background-color: #ffffff; /* Cor de fundo para linhas ímpares */
+}
